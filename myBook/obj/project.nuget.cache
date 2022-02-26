@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "DA+5mtqzthqmRvF2Wi6/YBaniSz+6/m3+t7Kl5dDCFQlbMERX+m/sgH6ZHKxhsKQbz6N6o2jpN3F6Rcp6G2qgQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\enora\\Desktop\\ASP.NET C#\\myBook\\myBook\\myBook.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
